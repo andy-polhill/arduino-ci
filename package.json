@@ -1,0 +1,15 @@
+{
+  "name": "arduino-ci",
+  "version": "1.0.0",
+  "description": "Arduino Travis experiments",
+  "main": "index.js",
+  "repository": "https://github.com/thatguynamedandy/arduino-ci.git",
+  "author": "thatguynamedandy <andyp@brandwatch.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "dependencies": {
+    "mocha": "^3.4.2"
+  }
+}
